@@ -1,7 +1,7 @@
 #  DevQuest — Gamified Project Milestone Roadmap & Full-Stack API
 ----------------------------------------------------------------------
 DevQuest is an advanced full-stack task orchestration framework built with Next.js. It integrates a localized server routing API (`/api/quests`) while driving a high-performance interactive client dashboard featuring live state toggles, real-time query filter matrix sorting, and computational score aggregators.
-
+----------------------------------------------------------------------------------------------
 ## Preview 
 
 ##  Framework Exploration Scope
